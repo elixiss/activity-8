@@ -1,0 +1,74 @@
+<html>
+<head><h3 align="center">MY ACTIVITY 8</h3></head>
+<style>
+body {background-image: url('https://i.pinimg.com/736x/15/c7/60/15c76094c4e04f9b7330ff51d96447eb.jpg') };
+</style>
+<table align=center border="3px">
+<th bgcolor="#F6A281" colspan="9"><h1>Eli's Coffeeteria</h1></th>
+<tr>
+<th bgcolor="E3AC96"> COFFEE</th>
+<th bgcolor="E3AC96"> IMAGE</th>
+<th bgcolor="E3AC96"> PRICE</th>
+<th bgcolor="E3AC96"> SNACKS</th>
+<th bgcolor="E3AC96"> IMAGE</th>
+<th bgcolor="E3AC96"> PRICE</th>
+<th bgcolor="E3AC96"> OTHERS</th>
+<th bgcolor="E3AC96"> IMAGE</th>
+<th bgcolor="E3AC96"> PRICE</th>
+</tr>
+<td bgcolor="#EAC6C2">Cappuccino(6oz)</td>
+<td bgcolor="#EAC6C2"> <img src="https://i.pinimg.com/originals/5b/95/5b/5b955b0da2713af4686af4d4bc541be2.jpg" style="height:100px;width:200px"></td>
+<td bgcolor="#EAC6C2">$5</td>
+<td bgcolor="#EAC6C2"">Bite My Ring</td>
+<td bgcolor="#EAC6C2"> <img src="https://thumbs.dreamstime.com/b/popular-ready-to-eat-crunchy-puffed-snacks-ring-tangy-orange-color-white-ceramic-bowl-top-view-side-lit-220065911.jpg" style="height:100px;width:200px">
+<td bgcolor="#EAC6C2">$7</td>
+<td bgcolor="#EAC6C2">Choco Pirates</td>
+<td> <img src="https://i0.wp.com/inthemidnightkitchen.com/wp-content/uploads/2021/08/DSC02411.jpg"  style="height:100px;width:200px"></td>
+<td bgcolor="#EAC6C2">$5</td>
+</tr>
+<tr>
+<td bgcolor="#EAC6C2">Espresso</td>
+<td bgcolor="#EAC6C2"> <img src="https://i.pinimg.com/736x/08/f0/05/08f005a0bc53ff10c0dec1cf68421aee.jpg" style="height:100px;width:200px"</td>
+<td bgcolor="#EAC6C2">$5</td>
+<td bgcolor="#EAC6C2">Yellow Submarine</td>
+<td bgcolor="#EAC6C2"> <img src="https://i.pinimg.com/originals/7a/0d/e4/7a0de4a3302fac1ab1eee726542ee33a.png" style="height:100px;width:200px"</td>
+<td bgcolor="#EAC6C2">$7</td>
+<td bgcolor="#EAC6C2">Green Land Latte</td>
+<td bgcolor="#EAC6C2"> <img src="https://i.pinimg.com/736x/bb/3c/29/bb3c29c99ad4b27b42c1d7c32655414b.jpg" style="height:100px;width:200px"</td>
+<td bgcolor="#EAC6C2">$5</td>
+</tr>
+<tr>
+<td bgcolor="#EAC6C2">Americano</td>
+<td bgcolor="#EAC6C2"> <img src="https://i.pinimg.com/736x/84/8f/93/848f93df53ebb12817346bea375c2e5a.jpg" style="height:100px;width:200px"</td>
+<td bgcolor="#EAC6C2">$5</td>
+<td bgcolor="#EAC6C2">Flourish Squidy</td>
+<td bgcolor="#EAC6C2"> <img src="https://i.pinimg.com/736x/9e/39/b9/9e39b97e4b4c61fdc2b765c7567796c3.jpg" style="height:100px;width:200px"</td>
+<td bgcolor="#EAC6C2">$7</td>
+<td bgcolor="#EAC6C2">Red Beach Latte</td>
+<td bgcolor="#EAC6C2"> <img src="https://i.pinimg.com/736x/4b/92/ed/4b92edac2aead659c76047ab9363007f.jpg" style="height:100px;width:200px"</td>
+<td bgcolor="#EAC6C2">$5</td>
+</tr>
+<tr>
+<td bgcolor="#EAC6C2">Mocha</td>
+<td bgcolor="#EAC6C2"> <img src="https://i.pinimg.com/736x/76/8b/aa/768baa302c5195ddedfa35ff5ccb7fa0.jpg" style="height:100px;width:200px"</td>
+<td bgcolor="#EAC6C2">$5</td>
+<td bgcolor="#EAC6C2">Lost Dorry</td>
+<td bgcolor="#EAC6C2"> <img src="https://www.asavoryfeast.com/wp-content/uploads/2016/06/Find-Dory-2.jpg" style="height:100px;width:200px"</td>
+<td bgcolor="#EAC6C2">$7</td>
+<td bgcolor="#EAC6C2">Purple Sky Latte</td>
+<td bgcolor="#EAC6C2"> <img src="https://www.siftandsimmer.com/wp-content/uploads/2021/10/iced-ube-latte5.jpg" style="height:100px;width:200px"</td>
+<td bgcolor="#EAC6C2">$5</td>
+</tr>
+<tr>
+<td bgcolor="#EAC6C2">Cafe Latte</td>
+<td bgcolor="#EAC6C2"> <img src="https://i.pinimg.com/550x/44/b4/0d/44b40d447c70430e6cee3ae791de9814.jpg" style="height:100px;width:200px"</td>
+<td bgcolor="#EAC6C2">$5</td>
+<td bgcolor="#EAC6C2">Sandwhich</td>
+<td bgcolor="#EAC6C2"> <img src="https://i.pinimg.com/550x/81/20/59/8120593724ae6f040529759d82f4400b.jpg" style="height:100px;width:200px"</td>
+<td bgcolor="#EAC6C2">$7</td>
+<td bgcolor="#EAC6C2">Octopus Ink Latte</td>
+<td bgcolor="#EAC6C2"> <img src="https://i.pinimg.com/736x/c5/c3/65/c5c365e2a4b04c1ff25aefbba55079ce.jpg" style="height:100px;width:200px"</td>
+<td bgcolor="#EAC6C2">$5</td>
+
+</tr>
+</html>
